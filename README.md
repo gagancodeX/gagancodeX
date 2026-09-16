@@ -1,65 +1,76 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Gagan&fontSize=70&fontAlignY=35&desc=Aspiring%20Developer%20%7C%20AI-Assisted%20Coding&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=210&section=header&text=GAGAN&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20WITH%20CODE%20%2B%20AI&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-# 👋 Hi, I'm Gagan
-
-### 💻 Aspiring Developer · 🤖 AI-Assisted Coding · 🌐 Web Development
-
-**Learning by building. Building to learn.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Developer+%F0%9F%92%BB;AI-Assisted+Developer+%F0%9F%A4%96;Web+Development+%F0%9F%8C%90;Learning+by+Building+%F0%9F%9A%80" alt="Typing intro"/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=gagancodeX&label=Profile%20Views&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/gagancodeX?label=Followers&style=for-the-badge" alt="GitHub followers"/>
+  <a href="https://github.com/gagancodeX">
+    <img src="https://img.shields.io/badge/GitHub-gagancodeX-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=gagancodeX&label=PROFILE%20VIEWS&style=for-the-badge"/>
 </p>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧑‍💻 WHO AM I?
 
-I'm a beginner developer who learns primarily by **building real projects and solving real problems**.
+> **A beginner developer who learns by building real things — not just watching tutorials.**
 
-- 🌱 Learning **HTML, CSS, JavaScript & Python**
-- 🤖 Exploring **AI-assisted development & Vibe Coding**
-- 🛠️ Turning ideas into working prototypes
-- 🧩 Interested in **web development, automation & digital products**
-- 🔧 Practicing **debugging, Git/GitHub & problem-solving**
-- 🎯 Growing toward **full-stack development**
+I’m exploring web development, Python, APIs, automation, and AI-assisted coding while turning ideas into working projects.
 
-> **Learn → Build → Break → Debug → Understand → Improve 🚀**
+<div align="center">
+
+### 💡 IDEA → 🧑‍💻 CODE → 🐛 DEBUG → 🚀 SHIP → 🧠 LEARN
+
+</div>
 
 ---
 
-## ⚡ What I Do
+## ⚡ MY FOCUS
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="25%">
 
-### 🌐 Web Development
-Building responsive interfaces and experimenting with frontend technologies.
+### 🌐
+**WEB**
 
-</td>
-<td width="50%">
-
-### 🤖 AI-Assisted Coding
-Using AI to explore ideas, debug code, learn faster, and prototype projects.
+HTML  
+CSS  
+JavaScript
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td align="center" width="25%">
 
-### 🛠️ Project Building
-Learning through hands-on projects instead of only tutorials.
+### 🐍
+**PYTHON**
+
+Fundamentals  
+Automation  
+APIs
 
 </td>
-<td width="50%">
+<td align="center" width="25%">
 
-### 📚 Continuous Learning
-Improving programming fundamentals one concept at a time.
+### 🤖
+**AI**
+
+AI-assisted coding  
+Prototyping  
+Debugging
+
+</td>
+<td align="center" width="25%">
+
+### 🛠️
+**BUILD**
+
+Real projects  
+GitHub  
+Problem solving
 
 </td>
 </tr>
@@ -67,74 +78,98 @@ Improving programming fundamentals one concept at a time.
 
 ---
 
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&perline=7" alt="Tech stack"/>
-</p>
-
----
-
-## 🤖 AI + Development
-
-AI is part of my workflow, but **understanding the code is the objective**.
-
-**I use AI to:**
-
-💡 Ideate → ⚙️ Prototype → 🐛 Debug → 🧠 Learn → 🚀 Improve
-
-- Generate and refine project ideas
-- Understand errors and unfamiliar concepts
-- Experiment with APIs and workflows
-- Improve UI/UX ideas
-- Speed up repetitive development tasks
-
----
-
-## 🚀 Featured Project
+## 🧰 TECHNOLOGIES
 
 <div align="center">
 
-### 🎵 DINO Music
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&perline=7" alt="Technologies"/>
 
-**A modern music web project focused on a clean and simple listening experience.**
+<br><br>
+
+<img src="https://img.shields.io/badge/Currently_Learning-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Exploring-Backend-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Exploring-APIs-F59E0B?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🤖 AI × CODING
+
+I use AI as a **development partner** to:
+
+- 💡 Turn ideas into project plans
+- 🧩 Understand unfamiliar code
+- 🐛 Debug errors
+- 🎨 Improve UI/UX
+- ⚙️ Experiment with APIs and workflows
+- 📚 Learn concepts while building
+
+> **AI can accelerate the process. Understanding the result is the skill.**
+
+---
+
+## 🚀 FEATURED BUILD
+
+<div align="center">
+
+# 🎵 DINO Music
+
+**A modern music web project built around a clean, simple listening experience.**
+
+<br>
 
 HTML · CSS · JavaScript
 
+<br>
+
+<a href="https://github.com/gagancodeX/dino-music-website">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-## 📚 Learning Roadmap
+## 📚 LEARNING ROADMAP
 
-| 🧩 Area | 🎯 Current Focus |
-|:--|:--|
-| HTML | Semantic & accessible structure |
-| CSS | Responsive layouts & UI |
-| JavaScript | Logic, DOM & APIs |
-| Python | Programming fundamentals |
-| Git & GitHub | Version control |
-| React | Component-based frontend |
-| Backend | APIs, databases & server-side development |
+| 🔹 | Area | Focus |
+|:--:|:--|:--|
+| 🌐 | **Frontend** | HTML · CSS · JavaScript |
+| 🐍 | **Python** | Programming fundamentals |
+| 🔧 | **Git & GitHub** | Version control |
+| ⚛️ | **React** | Component-based UI |
+| 🔌 | **APIs** | Requests · integration · data |
+| 🖥️ | **Backend** | Servers · databases · APIs |
 
 ---
 
-## 🔥 Contribution Streak
+## 📌 CURRENTLY
+
+**BUILDING** → Real-world web projects  
+**LEARNING** → JavaScript + Python  
+**EXPLORING** → AI-assisted development  
+**PRACTICING** → Git + GitHub + debugging  
+**NEXT** → React + backend development
+
+---
+
+## 🔥 CONTRIBUTION STREAK
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=gagancodeX&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=gagancodeX&hide_border=true&mode=weekly" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## 🌐 Connect
+## 🌐 CONNECT
 
 <div align="center">
 
 <a href="https://github.com/gagancodeX">
-<img src="https://img.shields.io/badge/GitHub-gagancodeX-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow%20%40gagancodeX-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -143,10 +178,8 @@ HTML · CSS · JavaScript
 
 <div align="center">
 
-### 🚀 BUILD • LEARN • DEBUG • IMPROVE
+### 🚀 BUILD · 🧠 LEARN · 🐛 DEBUG · 🔁 REPEAT
 
-**One project at a time.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=120&section=footer" width="100%"/>
 
 </div>

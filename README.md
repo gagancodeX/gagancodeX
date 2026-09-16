@@ -119,18 +119,6 @@ HTML · CSS · JavaScript
 
 ---
 
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gagancodeX&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagancodeX&layout=compact&hide_border=true" alt="Top languages"/>
-
-</div>
-
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">

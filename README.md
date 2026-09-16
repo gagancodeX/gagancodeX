@@ -1,48 +1,49 @@
 <div align="center">
 
-# Gagan
+# 👋 Hi, I'm Gagan
 
-### Aspiring Developer · Web Development · AI-Assisted Coding
+### 💻 Aspiring Developer · 🌐 Web Development · 🤖 AI-Assisted Coding
+
+**I build projects, solve problems, and learn by doing.**
 
 <p>
-  <a href="https://github.com/gagancodeX">
-    <img src="https://img.shields.io/badge/GitHub-gagancodeX-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=gagancodeX&label=PROFILE%20VIEWS&style=flat-square"/>
+<a href="https://github.com/gagancodeX"><img src="https://img.shields.io/badge/GitHub-gagancodeX-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://komarev.com/ghpvc/?username=gagancodeX&label=PROFILE%20VIEWS&style=for-the-badge" alt="Profile views"/>
 </p>
-
-**I learn by building real projects and turning ideas into working products.**
 
 </div>
 
 ---
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 
-I'm a beginner developer focused on **web development and practical project building**. I use AI to speed up development, explore ideas, debug problems, and learn concepts more effectively.
+I'm a beginner developer focused on **building practical web projects** and developing strong programming fundamentals.
 
 - 🌱 Learning **HTML, CSS, JavaScript & Python**
 - 🤖 Exploring **AI-assisted development**
-- 🛠️ Building and deploying personal projects
+- 🛠️ Building and deploying real projects
 - 🔧 Practicing **Git, GitHub, APIs & debugging**
-- 🎯 Working toward stronger full-stack development skills
+- 🎯 Growing toward **full-stack development**
+
+> **Learn → Build → Debug → Understand → Improve**
 
 ---
 
-## 🧩 Skills
+## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&perline=7" alt="Skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,react,vite,fastapi,firebase,git,github,vscode&perline=11" alt="Tech stack"/>
 
 </div>
 
-| Area | Technologies |
-|:---|:---|
-| **Frontend** | HTML · CSS · JavaScript |
-| **Programming** | Python |
+| Category | Technologies |
+|:--|:--|
+| **Frontend** | HTML · CSS · JavaScript · React · Vite |
+| **Backend** | Python · FastAPI |
+| **Services** | Firebase · APIs |
 | **Tools** | Git · GitHub · VS Code |
-| **Exploring** | React · APIs · Backend |
+| **Currently Exploring** | Backend development · Databases |
 
 ---
 
@@ -50,54 +51,62 @@ I'm a beginner developer focused on **web development and practical project buil
 
 <div align="center">
 
-### 🎵 DINO Music
+# 🎵 DINO Music
 
-A modern music web project focused on a clean and simple listening experience.
-
-**HTML · CSS · JavaScript**
+**A full-stack music web experience designed for music discovery and playback.**
 
 <br>
 
-<a href="https://github.com/gagancodeX/dino-music-website">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View DINO Music repository"/>
+React · TypeScript · Vite · FastAPI · Firebase
+
+<br>
+
+<a href="https://dinomusicweb.onrender.com">
+<img src="https://img.shields.io/badge/LIVE%20WEBSITE-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DINO Music live website"/>
 </a>
+&nbsp;
+<a href="https://github.com/gagancodeX/DINO-MUSIC-WEBSITE">
+<img src="https://img.shields.io/badge/REPOSITORY-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="DINO Music repository"/>
+</a>
+
+<br><br>
+
+<sub>Search · Artists · Playlists · Queue · Lyrics · Authentication</sub>
 
 </div>
 
 ---
 
-## 🤖 How I Use AI
+## 🤖 AI-Assisted Development
 
-AI is part of my development workflow:
+AI is part of my workflow, but **understanding what I build comes first**.
 
-**Idea → Research → Build → Debug → Understand → Improve**
+**Idea → Research → Code → Debug → Understand → Improve**
 
-I use it for:
-- 💡 Project ideas and planning
+I use AI for:
+- 💡 Project planning and ideation
 - 🐛 Debugging and error analysis
-- 🧠 Understanding new concepts
+- 🧠 Learning unfamiliar concepts
 - 🎨 UI/UX experimentation
 - ⚙️ API and development experiments
 
-> **AI helps me move faster. I focus on understanding what I build.**
-
 ---
 
-## 📈 Current Focus
+## 📚 Current Learning
 
 <div align="center">
 
-| 🌱 Learning | 🔨 Building | 🎯 Next |
-|:---:|:---:|:---:|
-| JavaScript | Web projects | React |
-| Python | Practical tools | Backend |
-| Git & GitHub | APIs | Databases |
+| 🌱 Learning | 🔨 Building | 🎯 Exploring |
+|:--:|:--:|:--:|
+| JavaScript | Web Projects | React |
+| Python | APIs | Backend |
+| Git & GitHub | Practical Tools | Databases |
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Activity
 
 <div align="center">
 
@@ -117,10 +126,12 @@ I use it for:
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-**BUILD. LEARN. DEBUG. IMPROVE. 🚀**
+### BUILD · LEARN · DEBUG · IMPROVE 🚀
+
+<sub>Turning ideas into projects, one build at a time.</sub>
 
 </div>

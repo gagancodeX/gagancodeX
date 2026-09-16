@@ -59,20 +59,6 @@ A modern music web project focused on a clean, simple listening experience.
 
 ---
 
-### 💳 PayPilot AI
-A project concept for payment and invoice management aimed at sellers and small businesses.
-
-**Built with:** HTML • CSS • JavaScript
-
----
-
-### 🔗 Flynk
-A file-sharing project concept focused on simple temporary sharing.
-
-**Built with:** HTML • CSS • JavaScript • Node.js • MongoDB
-
----
-
 ## 📚 Currently Learning
 
 | Technology | Focus |

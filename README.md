@@ -64,10 +64,6 @@ React · TypeScript · Vite · FastAPI · Firebase
 <a href="https://dinomusicweb.onrender.com">
 <img src="https://img.shields.io/badge/LIVE%20WEBSITE-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DINO Music live website"/>
 </a>
-&nbsp;
-<a href="https://github.com/gagancodeX/DINO-MUSIC-WEBSITE">
-<img src="https://img.shields.io/badge/REPOSITORY-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="DINO Music repository"/>
-</a>
 
 <br><br>
 
